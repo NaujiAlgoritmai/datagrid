@@ -17,11 +17,13 @@ group :development do
   gem "sqlite3"
   gem "sequel"
 
+=begin
   group :mongo do
     gem "mongoid", "3.1.7"
     gem "mongo_mapper", "~> 0.13.0"
     gem "bson"
     gem "bson_ext"
   end
-
+=end
+  
 end
