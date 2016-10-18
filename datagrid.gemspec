@@ -152,7 +152,7 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<rails>.freeze, [">= 3.2.22.2"])
       s.add_development_dependency(%q<bundler>.freeze, [">= 0"])
       s.add_development_dependency(%q<jeweler>.freeze, [">= 0"])
-      s.add_development_dependency(%q<debugger>.freeze, [">= 0"])
+      # s.add_development_dependency(%q<debugger>.freeze, [">= 0"])
       s.add_development_dependency(%q<pry-byebug>.freeze, [">= 0"])
       s.add_development_dependency(%q<rspec>.freeze, [">= 3"])
       s.add_development_dependency(%q<nokogiri>.freeze, [">= 0"])
